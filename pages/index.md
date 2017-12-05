@@ -55,4 +55,4 @@ Lots of great community ideas for Sketch features are better implemented as plug
 
 ### Help us improve
 
-If you find any error or omission on the documentation, or you’d like us to cover or clarify something, just [file an issue]({{site.github_repo}}/issues) and we’ll try to fix it. Of course, since all the content on this site is open source, you can help us improve it by [suggesting an edit on GitHub]({{site.github_repo}}) (there’s also an "Improve this page" link at the bottom of every page, in case you find something wrong while browsing the site).
+If you find any error or omission on the documentation, or you’d like us to cover or clarify something, just [file an issue]({{site.github.repository_url}}/issues) and we’ll try to fix it. Of course, since all the content on this site is open source, you can help us improve it by [suggesting an edit on GitHub]({{site.github.repository_url}}) (there’s also an "Improve this page" link at the bottom of every page, in case you find something wrong while browsing the site).
